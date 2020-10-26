@@ -2,7 +2,7 @@ const secretText = "booj!b ! ojba !bra!! b jrtatG!boootebab! j!jt!!tjjeeobo";
 
 function decrypt(secretText) { 
   const decryptedString = "";
-  
+  // I ADDED SOMETHING!
   // TODO: Add code here to loop over the string and identify which letters occur the most (No hard coding!)
   // TODO: Based on the occurences of each letter, create a string and return it
   // E.g., "G" occurs once -> decrypted string starts with "G"
